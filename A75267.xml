@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dutch bloudy almanack, conteyning the exact astrologicall predictions, for the yeare of our Lord 1653 divided into these particulars. 1 The predictions of the bloudy war between England and Holland, with the success and events of severall fights by sea and land, and the joyning together of the greatest part of Europe against England. 2 The breaking forth of open wars with Denmark, and the bloudy attempt of the King of Scots, and James Duke of York in prosecution of that designe. 3 Severall mutenys and insurr-ctions [sic] in England, with some astrologlcal [sic] observations thereupon. 4 Some generull calculations concerning the warres in France, Spain and Portugale, with every moneths observations of the revolutions in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75267</idno>
+            <idno type="STC">Wing A2895A</idno>
+            <idno type="STC">Thomason E678_15</idno>
+            <idno type="STC">ESTC R206799</idno>
+            <idno type="EEBO-CITATION">99865905</idno>
+            <idno type="PROQUEST">99865905</idno>
+            <idno type="VID">118159</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118159)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 104:E678[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dutch bloudy almanack, conteyning the exact astrologicall predictions, for the yeare of our Lord 1653 divided into these particulars. 1 The predictions of the bloudy war between England and Holland, with the success and events of severall fights by sea and land, and the joyning together of the greatest part of Europe against England. 2 The breaking forth of open wars with Denmark, and the bloudy attempt of the King of Scots, and James Duke of York in prosecution of that designe. 3 Severall mutenys and insurr-ctions [sic] in England, with some astrologlcal [sic] observations thereupon. 4 Some generull calculations concerning the warres in France, Spain and Portugale, with every moneths observations of the revolutions in England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653 [i.e. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob. 19. 1652"; the 3 in the date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118159:1" rendition="simple:additions"/>
+            <p>THE DUTCH Bloudy Almanack, Conteyning The exact Aſtrologicall Predictions, for the yeare of our Lord 1653 Divided into theſe particulars.
+<list>
+                  <item>1 The Predictions of the Bloudy War between England and Holland, with the ſucceſs and events of ſeverall Fights by Sea and Land, and the Joyning together of the greateſt part of Europe againſt England.</item>
+                  <item>2 The breaking forth of open Wars with Denmark, and the Bloudy attempt of the King of Scots, and James Duke of York in proſecution of that deſigne.</item>
+                  <item>3. Severall Mutenys and Inſurr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctions in England, with ſome Aſtrologlcal obſervations thereupon.</item>
+                  <item>4 Some generull Calculations concerning the Warres in France, Spain and Portugale, with every Moneths ob<g ref="char:EOLhyphen"/>ſervations of the Revolutions in England.</item>
+               </list>
+            </p>
+            <figure>
+               <figDesc>astrological figure, perhaps used for prognostication</figDesc>
+            </figure>
+            <p>London printed by John Clowſe 1653. <add>Octob. 19. 1652</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="almanac">
+            <pb facs="tcp:118159:2"/>
+            <pb n="1" facs="tcp:118159:2"/>
+            <div n="January" type="month">
+               <head>January.</head>
+               <opener>The great God direct us in his Truth.</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>His moneth begines with the <hi>Sun</hi> or <hi>Sol</hi> in <hi>Capri<g ref="char:EOLhyphen"/>cornus,</hi> the <hi>Moone</hi> or <hi>Luna</hi> in <hi>Jeminie,</hi> and there is a <hi>Triue</hi> of <hi>Salturn</hi> and <hi>Venus,</hi> which brings dan<g ref="char:EOLhyphen"/>ger to women and children, but the Conjunction of <hi>Sol &amp; Jupiter</hi> doth a little metigate that aſpect, and the effects ſeeme to hav the chiefeſt opperation, upon Judges and Lawyers, and where there happeneth a ſcarcity of them, the Influence will be found upon <hi>Jewes</hi> and <hi>Brokers,</hi> in all parts except in <hi>Turkey,</hi> where a Dutch-man came to a <hi>Jew,</hi> or <hi>Broker,</hi> and deſired him to help him to buy a bargain of ſilke, and he would give him ſatisfaction for his paines, the <hi>Jew</hi> thereupon goes with him to a <hi>Turke</hi> which had of that commodity that liked the Dutch-man, and treating about the price thereof, the <hi>Turke</hi> came to make a price, under which he would not go: But the Dutch-man thinking that the <hi>Turks</hi> had been like himſelfe and ſtood not upon bis word, or promiſe; ſwore <hi>Perſacramentum Jeſum &amp;c.</hi> that he would not give ſo much: The <hi>Turke</hi> not underſtanding the Language enquired of the <hi>Jew</hi> what it was he ſaid. The <hi>Jew</hi> anſwered <hi>that he ſwore by his God?</hi> the <hi>Turke</hi> re<g ref="char:EOLhyphen"/>plyed that he would not have further to doe with him that ſet his God at ſo low a rate, and layd by his commodity, for which the Dutch-man would afterwards have given the price but could not regaine the ſight hereof.</p>
+               <p>HO<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt horied newes from ſea arives at the Hague; if the dif<g ref="char:EOLhyphen"/>ferences are not now compoſed betwixt the Engliſh and the Hollan<g ref="char:EOLhyphen"/>der, a ſqadron of <hi>Dewitts</hi> will be indanger about this time, ſome black deſignes are probably diſcovered againſt the Engliſh Commone wealth, and Holland hath cauſe to cleave to ſome <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure friends in alliance the Planets ſeem not to favour the French with abillity to aſsiſt them in time of danger; It is an ill wind blowes no body good, but the conſtel<g ref="char:EOLhyphen"/>lations of the heavens bring it not to thee, great news expected from, the Dutch Ambaſſadors in <hi>Denmark;</hi> The Sould<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers ſwell with fury. Citizens minds riſe high and moſt mens ſpirits are elevated, and the hea<g ref="char:EOLhyphen"/>vens decrees are immutable and I cannot find any good aſpects or French
+<pb n="2" facs="tcp:118159:3"/> French Now is the time for Kings to loſe all or win all, and if that King hath not by this time ſetled a peace with the Princes. the Princes may be glad to offer another Treaty, for fear of an other Deſigne to be ſuddenly put in exe<g ref="char:EOLhyphen"/>cution, and their minds are in miſerable perplexity, that are trubled with what is like to happen hereafter.</p>
+               <p>The <hi>Sun</hi> in <hi>Cancer</hi> and <hi>Saturn</hi> in a Quarden is as bad or worſe then the former, yet doth gueſſe this aſpect will not be of any great forces in <hi>Hol<g ref="char:EOLhyphen"/>land</hi> or in <hi>England,</hi> the worſt I can find unto them is the death of ſome of thoſe that ſit at the helm unlamented, many pyracies committed by Sea, great blooſhed in <hi>France,</hi> if the Spaniard have a fight with the French, about this time, he is likely ot prevail, ſome great remoraes of an<g ref="char:punc">▪</g> eminency ſound<g ref="char:punc">▪</g> abroad beyond our horizon; what it ſhovld be I gueſſe not, unleſſe it ſhould be of ſome great Fleet at Sea, it may be onely a re<g ref="char:EOLhyphen"/>port of new Levies for the Scots King, in <hi>Denmark</hi> or <hi>Scotland</hi> or both, yet of any place, let not the <hi>Scots</hi> think to thrive this year, <hi>Saturn</hi> and <hi>Mars,</hi> &amp;c. are tranſcendent with them and before ſummer is ended, their Royal Black coats will not dare to ſhew their teeth, and <hi>Saturn</hi> be<g ref="char:EOLhyphen"/>ing paſsing through a Quadrat preſageth fear, terror, and treachery in that Nation, but the Aſpect is yet better in <hi>Holland,</hi> if they trouble not the water, or love to fiſh in ſuch, they may live at quiet, but if otherwiſe they muſt ſmart as well as the reſt.</p>
+            </div>
+            <div n="February" type="month">
+               <head>February.</head>
+               <p>
+                  <hi>Sol</hi> is this moneth in <hi>Piſcs</hi> but begins in <hi>Aquarus,</hi> which preſageth good fortune unto <hi>Souldiers</hi> if they can have there pay? <hi>Jupiter</hi> and <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> ſit in conjunction, and let all deceivers of the People t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke heed, for oppreſſors begin to feele their owne downefall; what ſhall the Jewes at <hi>Amſterdam</hi> and elſe where, have a M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>care nuder the Sea of <hi>Rome</hi> when they may find protection elſe where? All <hi>Europ</hi> is poſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with a madneſs, they meete and conſu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<g ref="char:punc">▪</g> but the greateſt part of them know not for what, and yet in ſuch meetings every one cryes out, great is <hi>Ap<g ref="char:EOLhyphen"/>polo,</hi> and great is <hi>Diana,</hi> though they ſee their Temples pulled downe, and that the name of St. <hi>Paul</hi> himſel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e cannot helpe it. <hi>Po<gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>onia</hi> ſaſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ages wax deere in <hi>Holland:</hi> many mutenyes are thereatned, and a ſtand in councell for want of men of truſt, &amp; no marvell when ſuch men ſhould be ſcarce amongſt thoſe that have deceived all the world. It is well for <hi>England</hi> in reſpect of the Influence that the Sea divedes them.</p>
+               <p>Yet when I conſider that Jupiter is Lord of the 2d, houſe and thereby diſpoſitor of Sol, and in his revolution Lord alſo in the 2 houſe (for Piſces is intercepted) and diſpoſitor of Venus, Lady of the 4th both in
+<pb n="3" facs="tcp:118159:3"/> this, and the former figurs, ſhe being in the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. in Piſces her own exalta<g ref="char:EOLhyphen"/>tion, I muſt needs ſay of theſe poſitions, <hi>amonae copiam, &amp;o</hi> they denote plenty of corn, fruitfulneſs of the earth, and g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat abundance and plenty in this year if the effects of that great eclipſe of the ſun, on the 9. of March, do not by their violence hinder theſe good things that are premiſ<g ref="char:EOLhyphen"/>ed by this revolution from falling on our heads, but as commerce and trade ſhall increaſe, ſo ſhall wickedneſs and deceit, for Mercury by his weak condition, being both in his fall and detriment in the 2d. <hi>ſignificat bnod &amp;c.</hi> men ſhall give themſelves to ignominious and diſhoneſt gain and ſhall obſerve very little faithfulneſſe among one another, and indeed this poſition of Mercuty, doth alſo ſignifie anguiſh, ſorow, and increaſe of taxes for our troubls, though they are turned into quietneſs and peace at home, yet we ſhall have war abord; for that oppoſition of Sat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn and <hi>ſignificat bellum apparere,</hi> no leſſe then much fighting and bloodſhed: but though Saturn our enemy being malicious and the more by reaſon of his being in the 2. houſe, (for <hi>auget in octava maſevel<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s ſuam malitium</hi> yet becauſe Jupiter Lord of our aſcendant<g ref="char:punc">▪</g> is much elevated above him <hi>ſignifications, &amp;c.</hi> ſignifies that we ſhall overcome all our enemies, Haly tells indeed that this oppoſition of Jupiter and Saturn ſignifies, <hi>quod eaunt &amp;c.</hi> it ſignifie<g ref="char:punc">▪</g> there ſhall be many quarrellings between men and nati<g ref="char:EOLhyphen"/>ons, one ſhall be ſtired up againſt the other, and men of low degree ſhall quarrel with one another, go to law, &amp;c and indeed it is plain by the late ſeparation of Luna from conjuction of Mars, that we were ingaged in brous before the beginning of this revolution, and the poſition of Mars threatens their continuacne, but his ſtrength in the ſcheam promiſes pro<g ref="char:EOLhyphen"/>tection <hi>qund genus, &amp;c.</hi>
+               </p>
+            </div>
+            <div n="March" type="month">
+               <head>March.</head>
+               <p>THis Spring begins with <hi>Sol,</hi> and the ninth of this moneth there hap<g ref="char:EOLhyphen"/>pens an Eclips of the Sun 3 minits paſt f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure of the clock in <g ref="char:punc">▪</g>the af<g ref="char:EOLhyphen"/>ternoon, this happeneth on a Wenſday, and if the <hi>Engliſh Merlin</hi> can but tell certenly that the fabrick of Heaven will be cloudy, he would Chriſten it <hi>Black Wednſday</hi> as his Brother <hi>Booker</hi> did Munday the laſt yeare, but for that you will have a blind excuſe thus. Now I ſhall proceed to the effects of this Eclips, and it maketh no great matter where I begin, ſeing they afford ſo litittle good, either to man or b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt</p>
+               <p>The Lords of this Eclipſs are Mars and Mercury, of which Mars of the two is ſtrongeſt by odds, and being upon the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſp of the tenth Houſe it is ſo much the worſe, neither is it ever the better, becauſe it is in a male<g ref="char:EOLhyphen"/>volent and venomous Sign.</p>
+               <p>Mercury takes nature of that Star to which he is aſpected, which very unluckily here is Mars, both of them being in watry Signs, ſignifie ter<g ref="char:EOLhyphen"/>rible
+<pb n="4" facs="tcp:118159:4"/> the haſty furious doings, violent, furious, tempeſtuous, deſtructive, ve<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment winds; the Sea will be ſo dangerous, men can ſcarce paſs it by heeaſon of ſhipwrack and Piracies; and judg you what the Land is like to ſuff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, when a couple of ſuch theeving Planets are Lords of an Ecli<g ref="char:EOLhyphen"/>pſe: Beſides all this, the Earth ſuffers by Thunder and Lightning, vehe<g ref="char:EOLunhyphen"/>ment and violent Storms, Earthquake<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and great gapings of the Earth M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n take ſuch thinges as are none of their own, which formerly was called Theft, and ſo tis now if poor men do it; but when rich men do it, then 'tis pillaging, plundering, and ſeizing on Malignants goods: it in<g ref="char:EOLhyphen"/>clines men to rapine, &amp; theft, lying, depopulation; the Lawes changed, and the Prieſts are mad, the Prieſthood it ſelf dyes, and then farewel gen<g ref="char:EOLhyphen"/>tle Clergy; the bodies of men are perplexed with hot and dry Diſeaſes, Coughs, ann Conſumption of the Lungs, Vomittings ſhortneſs of breath and Quotidiam Agues.</p>
+            </div>
+            <div n="April" type="month">
+               <head>Aprill.</head>
+               <p>About the very beginning of march the king <hi>of France</hi> is marching to his own deſtruction: thou art invaded by a Neighbor-Nation; thou ſhalt, to thy Sorrow, when it comes, know who it is: Neither is the Troubles that is in <hi>France</hi> to be heeded, but the Microcoſm bears part of it alſo: the King of <hi>France</hi> his Soul and Body cannot agree, and the contention is ſo ſharp, it is ſhrewdly to be feared they will part about the letter end of March. or beginning of <hi>April:</hi> A wilde Boar in a blue J<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cket is in the Vineyards<g ref="char:punc">▪</g> and crops up three flower-deluces at a mouthful, and then farewell thy Monarchy of <hi>France</hi> to Eternity. Alaſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, what will the poor Colledg of <hi>Sorban</hi> do, when the moſt Chriſtian King is eaten up with lice I when the Lord took away the Cardinal of <hi>richilieu,</hi> the glory of <hi>France</hi> was gone. <hi>Ae<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſops</hi> Frogs refuſed the Beam, becauſe he was patient but when the Stork came, he eat them up. I have little elſe to ſay to <hi>France,</hi> but only God bleſs all the honeſt there, and ſend them their li<g ref="char:EOLhyphen"/>berties, and ſomething elſe too. God bl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs honeſt people from the Piſti<g ref="char:EOLhyphen"/>lence this next Summer, which I ſhrewdly ſuſpect will ſo rage through<g ref="char:EOLhyphen"/>out the Dominiions there, which ſhall force the Colledg of Phyſicians of <hi>Paris</hi> to pay the tears they owe to the Tomb of their baniſhad <hi>Over<g ref="char:EOLhyphen"/>citanus.</hi>
+               </p>
+            </div>
+            <div n="May" type="month">
+               <head>May.</head>
+               <p>A ſtrange diaſter, about this time or perhaps in the forgoing Moneth is threatned, There be ſome men that nothing can ſatisfie, who would think that ſuch as have already (and if acc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſion be, will again<g ref="char:punc">▪</g> joyned in one, againſt the Common Enemy ſhould not agree amongſt themſelves; but either invigh, becauſe other men are in greater places then themſelves
+<pb n="5" facs="tcp:118159:4"/> or ſome other ſelf-ends are repining yea, and it may be impeaching one another, many piracyes are daily heard of to be committed at Sea. A great battle is likely to be fought in France, where ſome King or great parſon is like to fal. Something may naturally be calculated from the in influence of the Celeſtial bodyes of ſom further misfortune to the Scots King. either by a fall or a ſhot from his horſe: The two Eclipſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in one Moneth <hi>viz<g ref="char:punc">▪</g>
+                  </hi> one of the Sun and another of the Moon in March laſt, a<g ref="char:EOLhyphen"/>ffoard very much matter to work upon, and invites the Engliſh to a re<g ref="char:EOLhyphen"/>conciliation in judgement, very ſtrange intelligence comes from ſeverall parts, This is the time that wiſemen will do nothing but for themſelves<g ref="char:punc">▪</g> and ſay, that there is no reaſon that wiſdom ſhould put them ſelves in danger for fools.</p>
+            </div>
+            <div n="June July" type="month">
+               <head>June and July.</head>
+               <p>SOL enters Scorpio, and, and an oppoſition with <hi>Saturn,</hi> certainly this will be a time of great conſultation in <hi>England</hi> and <hi>Holland,</hi> yet a Quadrat for many dayes with <hi>Mars</hi> ſignifies much blood ſhed in <hi>France Ireland,</hi> and ſome other places, ſome ſtrivings amongſt great perſons conſequently follows about the nullifying of ſome thing formerly de<g ref="char:EOLhyphen"/>creed, or had been long in uſe: by this time much may be done in order to the equall adminiſtration of Juſtice in ſeverall places where it hath in prat been neglected, then happy are the people that live under ſuch a Government, yea thrice happy are they, if that a diſſembling flatterer, or inſinuating Paraſite, (the worſt vermine in a Common wealth) hath not an office himſelf of truſt. or at leaſt ſome honeſt man in great power to ſpeak for him; Its an ill wind blows no body good, but the influence of the heavens ſeems to be very ſparing where to beſtow. All men will not be of one mind, either in <hi>Holland, Spain, Italy, France, Germany, England</hi> or <hi>Scotland,</hi> although the Sun goes round all the world over.</p>
+               <p>
+                  <hi>England England</hi> thou art now at peace; but let him that ſtandeth take heed leſt he fall: there may be another puniſhement beſides the Sword coming; Call to mind what God hath done for thee, and then con<g ref="char:EOLhyphen"/>ſider what a ſad thing it is to offend ſo good a <hi>GOD.</hi>
+               </p>
+            </div>
+            <div n="August September" type="month">
+               <head>Auguſt and September.</head>
+               <p>The Lord defend this people from peſtelentious Ayrs, many croſſ<g ref="char:punc">▪</g> Sea fights<g ref="char:punc">▪</g> Pyracies<g ref="char:punc">▪</g> much bloud, <hi>Charles Stuart<g ref="char:punc">▪</g>
+                  </hi> looks for great matters by reaſon of Denmark, and <hi>James</hi> Duke of York, will not care if he looſ<g ref="char:EOLhyphen"/>eth his deereſt bloud to be revenged againſt the <hi>Engliſh,</hi> and what if the people ſhoul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> muteny in many places, at laſt we have intelligence from the Weſt, which rather invites to thanks then mourning.</p>
+            </div>
+            <div n="October November" type="month">
+               <head>
+                  <hi>October</hi> and <hi>November.</hi>
+               </head>
+               <p>The Winds blow high and a little affrightens, and we are in travell
+<pb n="6" facs="tcp:118159:5"/> both from Scotland, Ireland, France, Flanders, Partugale and Denma<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> we hope it will not increaſe the murmurings in England, or give way to the landing of any forces in England, the City <hi>Perqueſits</hi> are ſtill conten<g ref="char:EOLhyphen"/>ded for, yet it matters not to me who is Lord Major of London.</p>
+            </div>
+            <div n="December" type="month">
+               <head>December.</head>
+               <p>O <hi>Mars!</hi> when wilt thou leave thy cruelty? Its a time cauſeth many to lament and curſe War, and its attendants, Rapine, Murder and Ro<g ref="char:EOLhyphen"/>bery: Strang diviſions and in diſcontents will end the year: therefore the people ſtand fully reſolved to proceed one ſtep higher unto a further Election<g ref="char:punc">▪</g> diviſions highten our diſcords<g ref="char:punc">▪</g> Bell and the Dragon are ſtill fighting, Righteouſneſs prevails not. The Governors peradventure may be taxed for unjuſtice, yet are they very ſeriouſly and prudently carefull for the well ordering the <hi>Common-wealth,</hi> and thereupon they ſeeme to incline to do Acts of <hi>Grace.</hi> The <hi>Portugale</hi> hath many good <hi>Omens</hi> of the keeping and enjoying his Kingdome, though not without labour and travell. In the figure of his <hi>Coronotion,</hi> the almoſt degree of the firſt appearance in the year 1618. the vniverſall obſervation is, that two and twenty years after the apperition of that <hi>Planet</hi> Portugale re<g ref="char:EOLhyphen"/>gained its liberty, and upon concluſion of the <hi>Coments</hi> effects, the Eng<g ref="char:punc">▪</g> 
+                  <hi>Common wealth</hi> became a free State. All the Angels of the figure fixed, and <hi>Saturn,</hi> who of all the <hi>Planets</hi> is moſt ſlow, being <hi>Patron</hi> of this <hi>R<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>novation</hi> and fixed in <hi>Aquarius,</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Aſcendant, his own houſe; <hi>Jupi<g ref="char:EOLhyphen"/>ter</hi> being Lord of <hi>Sagitarus,</hi> and ſo Patron of <hi>Spain</hi> in his fall and i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the twelf Houſe; From whence it is concluded that the <hi>Spaniard</hi> ſhall never regain Portugale, yet many dangerous years will befall that State.</p>
+               <p>And now we ſhall conclude with a word of caution to France; For we find in the <hi>Nativity</hi> of Cardinall <hi>Mazerine;</hi> that he is likely to be <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Thorn in thy ſides; and if he outlive 1659; the Conſtellations promiſe him to enjoy greater honour then he hath at preſent; and in the end he is like to dye like a Noble-man; either of a Surfet or a Feaver:</p>
+            </div>
+            <closer>Gloria Deo.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
